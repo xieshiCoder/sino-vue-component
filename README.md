@@ -1,6 +1,5 @@
 # sino-vue-component
 
-<<<<<<< HEAD
 ## Project setup
 ```
 yarn install
